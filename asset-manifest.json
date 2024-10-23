@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/free-v-bucks/static/css/main.b5fa0770.css",
+    "main.js": "/free-v-bucks/static/js/main.85326a00.js",
+    "static/js/453.255e0fec.chunk.js": "/free-v-bucks/static/js/453.255e0fec.chunk.js",
+    "static/media/background.jpg": "/free-v-bucks/static/media/background.90e73c89fb23c0becd57.jpg",
+    "static/media/button_red.png": "/free-v-bucks/static/media/button_red.6435b097a19357e2b5f5.png",
+    "index.html": "/free-v-bucks/index.html",
+    "main.b5fa0770.css.map": "/free-v-bucks/static/css/main.b5fa0770.css.map",
+    "main.85326a00.js.map": "/free-v-bucks/static/js/main.85326a00.js.map",
+    "453.255e0fec.chunk.js.map": "/free-v-bucks/static/js/453.255e0fec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5fa0770.css",
+    "static/js/main.85326a00.js"
+  ]
+}
